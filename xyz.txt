@@ -1,2 +1,1 @@
- hi hello welcome to merge compflict in master branch
-
+ hi hello welcome to merge compflict in master branch and developer will change some infomarmation.
