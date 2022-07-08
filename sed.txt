@@ -1,4 +1,4 @@
-sed is text stream editor and wthout opeing we do the file operations like  search,replace,modify and delete operation done in saved the content of file
+sed is text stream editor and sed sed sed ghjkl;lkjvbkl;lkhkl;';lkjbkl;lkjb wthout opeing we do the file operations like  search,replace,modify and delete operation done in saved the content of file
 and without opening a file.
 syntax: sed '/pattern/' filename
 
