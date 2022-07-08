@@ -1,0 +1,4 @@
+sed is text stream editor  used search,replace,modify and delete operation done in saved the content of file
+and without opening a file.
+syntax: sed '/pattern/' filename
+
