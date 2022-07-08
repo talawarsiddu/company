@@ -1,4 +1,5 @@
 grep is global search regular expression and printout.grep is mainly used search the pattren or string.
  syntax:
  grep "pattern" filename
+grep is maily used searching perpose.
  
